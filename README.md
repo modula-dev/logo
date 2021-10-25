@@ -46,3 +46,9 @@ Icon
 
 ## 2
 ![2/cover.png](2/cover.png)
+
+---
++ [edit](https://github.com/modula-dev/logo/edit/master/README.md)
+```
+https://github.com/modula-dev/logo.git
+```
