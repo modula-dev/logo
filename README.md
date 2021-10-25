@@ -42,10 +42,10 @@ Icon
 # Logo
 
 ## 1
-![1/cover.png](1/cover.png)
+![https://modula-dev.github.io/logo/1/cover.png](1/cover.png)
 
 ## 2
-![2/cover.png](2/cover.png)
+![https://modula-dev.github.io/logo/2/cover.png](2/cover.png)
 
 ---
 + [edit](https://github.com/modula-dev/logo/edit/master/README.md)
